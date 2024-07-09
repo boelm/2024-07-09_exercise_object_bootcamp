@@ -1,3 +1,5 @@
+console.log('%cBibblan','font-weight:bold');
+
 // let book = {
 //   title: "Stolthet och fördom",
 //   author: "Jane Austen",
